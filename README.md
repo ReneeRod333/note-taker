@@ -12,7 +12,7 @@ Note Taker is a simple web application that allows the user to write, save, and 
   To run the application, navigate to the develop folder us the `cd develop`, then execute the command `npm start`.
 
   ## Deployed Application Link
-  [Deployed Application Link]()
+  [Deployed Application Link](https://note-taker-kprl.onrender.com)
 
   ## Screenshot
   ![](./develop/public/assets/images/Screen_Shot_Note_Taker.png)
