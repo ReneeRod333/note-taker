@@ -15,7 +15,7 @@ Note Taker is a simple web application that allows the user to write, save, and 
   [Deployed Application Link](https://note-taker-kprl.onrender.com)
 
   ## Screenshot
-  ![](./develop/public/assets/images/Screen_Shot_Note_Taker.png)
+  ![](./Develop/public/assets/images/Screen_Shot_Note_Taker.png)
 
   ## Features
   Creates, displays, and deletes notes.
