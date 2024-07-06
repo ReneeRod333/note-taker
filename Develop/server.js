@@ -4,6 +4,7 @@ const viewRoutes = require('./routes/view-routes')
 const port = process.env.PORT || 3001;
 const app = express();
 
+// Set up express app
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
 app.use(express.static("public"));
